@@ -1,3 +1,4 @@
-datasets/
-/Debug/
-/Release/
+Release/
+build/
+.gitignore
+.gitignore~
