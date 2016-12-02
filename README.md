@@ -8,12 +8,12 @@ BUILDING
 
 Example, using CMake:
 
-git clone 
-cd 
-mkdir build
-cd build
-cmake ..
-make
+    git clone https://github.com/abignoli/parallel-quickselect
+    cd parallel-quickselect
+    mkdir build
+    cd build
+    cmake ..
+    make
 
 ************************************
 
