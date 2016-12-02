@@ -2,7 +2,9 @@ Parallel implementation of the QuickSelect Algorithm in C++, using OpenMP.
 
 Author: Andrea Bignoli (andrea.bignoli@gmail.com)
 
-*** BUILDING ***
+************************************
+
+BUILDING 
 
 Example, using CMake:
 
@@ -13,7 +15,9 @@ cd build
 cmake ..
 make
 
-*** RUNNING ***
+************************************
+
+RUNNING
 
 The included program is used to test Parallel Quickselect algorithm. Runs tests of median computation and measure execution times, reporting the mean at the end.
 

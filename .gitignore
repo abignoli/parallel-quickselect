@@ -3,3 +3,5 @@ build/
 .gitignore
 .gitignore~
 README.md~
+.cproject
+.project
